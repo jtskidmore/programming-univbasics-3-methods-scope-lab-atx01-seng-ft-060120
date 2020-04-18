@@ -13,8 +13,8 @@ def link
   puts alert
 end
 
-def all_phrases (character)
-  phrase = #{character}.to_s  
-  puts phrase
-  phrase
+def all_phrases 
+  mario;
+  toadstool;
+  link;
 end
